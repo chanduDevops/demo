@@ -497,9 +497,9 @@
     </profiles>
    <distributionManagement>
         <repository>
-         <id>snapshots</id>
-         <name>Snapshots</name>
-         <url>http://localhost:8081/nexus/content/repositories/snapshots/</url>
+         <id>samplerepo</id>
+         <name>Samplerepo</name>
+         <url>http://localhost:8081/nexus/content/repositories/samplerepo/</url>
         </repository>
     </distributionManagement>
 </project>
